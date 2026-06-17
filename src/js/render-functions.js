@@ -60,9 +60,9 @@ export function clearGallery() {
 }
 
 export function showLoader() {
- loading.classList.remove('hidden')
+ loader.classList.remove('hidden')
 }
 
 export function hideLoader() {
-   loading.classList.add('hidden')
+   loader.classList.add('hidden')
 }
