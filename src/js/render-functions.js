@@ -1,5 +1,5 @@
 const gallery = document.querySelector('.gallery');
-const loading = document.querySelector('.loading');
+const loader = document.querySelector('.loader');
 
 
 
